@@ -1,0 +1,82 @@
+{
+  "goods": [
+    {
+      "id": "1",
+      "icon": "img1.png",
+      "name": "Name of product",
+      "description": "Some short and concise description of selling item. This is very good and nice item!",
+      "price": "1.95002",
+      "local": false
+    },
+    {
+      "id": "2",
+      "icon": "img1.png",
+      "name": "Name of product",
+      "description": "Some short and concise description of selling item. This is very good and nice item!",
+      "price": "2.95003",
+      "local": false
+    },
+    {
+      "id": "3",
+      "icon": "img1.png",
+      "name": "Name of product",
+      "description": "Some short and concise description of selling item. This is very good and nice item!",
+      "price": "3.9578",
+      "local": false
+    }
+    ,
+    {
+      "id": "4",
+      "icon": "img1.png",
+      "name": "Name of product",
+      "description": "Some short and concise description of selling item. This is very good and nice item!",
+      "price": "4.95432",
+      "local": false
+    }   
+    ,
+    {
+      "id": "5",
+      "icon": "img1.png",
+      "name": "Name of product",
+      "description": "Some short and concise description of selling item. This is very good and nice item!",
+      "price": "5.953246",
+      "local": false
+    }  
+    ,
+    {
+      "id": "6",
+      "icon": "img1.png",
+      "name": "Name of product",
+      "description": "Some short and concise description of selling item. This is very good and nice item!",
+      "price": "6.95887",
+      "local": false
+    }
+    ,
+    {
+      "id": "7",
+      "icon": "img1.png",
+      "name": "Name of product",
+      "description": "Some short and concise description of selling item. This is very good and nice item!",
+      "price": "7.954562",
+      "local": false
+    }    
+    ,
+    {
+      "id": "8",
+      "icon": "img1.png",
+      "name": "Name of product",
+      "description": "Some short and concise description of selling item. This is very good and nice item!",
+      "price": "8.952356",
+      "local": false
+    }    
+    ,
+    {
+      "id": "9",
+      "icon": "img1.png",
+      "name": "Name of product",
+      "description": "Some short and concise description of selling item. This is very good and nice item!",
+      "price": "9.95245235",
+      "local": false
+    }    
+  ]
+}
