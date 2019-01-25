@@ -43,7 +43,7 @@ class App extends Component{
       <LoadStatistic />
 
       <Switch>
-        <Route path="/eshop-oss/" component={iViewCatalog} />        
+        <Route path="/" component={iViewCatalog} />        
         <Route path="/additem/" component={iAddItem} /> 
       </Switch>
 
