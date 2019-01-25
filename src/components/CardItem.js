@@ -55,8 +55,8 @@ roundPrice(price)
 
                   <CardMedia
                     className={classes.cardMedia}
-                    image = { '/eshop-oss/images/item-icons/'+this.props.item.icon}
-                    title="Image title"
+                    image = {'images/item-icons/'+this.props.item.icon}
+                    title = "Image title"
                   />
                   <CardContent className={classes.cardContent}>
                     <Typography gutterBottom variant="h5" component="h2">
