@@ -6,7 +6,6 @@ import MoreVertIcon from '@material-ui/icons/MoreVert';
 
 import { Link } from "react-router-dom";
 
-
 const ITEM_HEIGHT = 48;
 
 class LongMenu extends React.Component {
@@ -60,7 +59,7 @@ class LongMenu extends React.Component {
         >
             
             <MenuItem onClick={this.handleCloseMenu1}>
-              <Link to='/eshop-oss'>View catalog</Link>
+              <Link to='/'>View catalog</Link>
             </MenuItem>
             <MenuItem onClick={this.handleCloseMenu2}>
               <Link to='/additem'>Add item</Link>
